@@ -1,0 +1,4 @@
+PAPR
+====
+
+Paradigmata programování
